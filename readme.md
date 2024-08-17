@@ -21,7 +21,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/sidhoo"><img src="https://img.shields.io/badge/LinkedIn-Sidhoo-blue"/></a>&nbsp;
 <a href="mailto:Sidhooman@gmail.com"><img src="https://img.shields.io/badge/Gmail-Sidhooman@gmail.com-red"/></a>&nbsp;
-<a href="https://twitter.com/Sid_hoo"><img alt="Twitter URL" src="https://img.shields.io/badge/Twitter-@Sid_hoo-blue"/></a>&nbsp;
 <a href="https://instagram.com/Sid_hoo"><img src="https://img.shields.io/badge/-@Sid_hoo-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>&nbsp;
 <a href="https://facebook.com/sidhooman"><img src="https://img.shields.io/badge/-@Sidhooman-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
